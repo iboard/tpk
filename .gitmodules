@@ -1,3 +1,6 @@
 [submodule "tpk_common"]
 	path = tpk_common
 	url = git@github.com:iboard/tpk_common
+[submodule "tpk_examples"]
+	path = tpk_examples
+	url = git@github.com:iboard/tpk_examples
