@@ -5,7 +5,10 @@ of stand-alone git-repos.
 
 ## Libraries
 
- - tpk_common ... Common pure functional library
- - tpk_otp ...... Common library using/extending OTP
+ - [tpk][] .......... Root repository with it's submodules.
+ - [tpk_common][] ... Common pure functional library.
+ - [tpk_otp][] ...... Common library using/extending OTP.
  
-
+[tpk_common]: https://github.com/iboard/tpk_common
+[tpk_otp]: https://github.com/iboard/tpk_otp
+[tpk]: https://github.com/iboard/tpk
