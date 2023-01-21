@@ -6,5 +6,7 @@ SUB_MODULES="tpk_common tpk_examples"
 
 for mod in $SUB_MODULES
 do 
+  echo ""
+  echo "==== $mod ===="
   cd $mod && mix test && cd -
 done
